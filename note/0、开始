@@ -1,0 +1,30 @@
+    从全局来开，ssm，数据库，分布式，微服务，高并发和性能优化，就是学习的主要方向。
+    这个项目重点理解分布式架构，及相关工具的配置、使用，包括：
+    Nginx、Varnish、Zookeeper、ActiveMQ、Dubbo-admin、Dubbo-monitor
+
+    一、Nginx：http://www.nginx.cn/doc/，反向代理，负载均衡
+    配置nginx命令: http://www.runoob.com/linux/nginx-install-setup.html
+
+    二、Varnish：https://www.cnblogs.com/zl0372/articles/varnish_1.html，web加速器
+    配置Varnish： http://www.vipzhicheng.com/2014/03/17/install-varnish-on-mac/  https://yanbin.blog/varnish-install-quick-start/
+
+    三、Zookeeper：https://www.cnblogs.com/felixzh/p/5869212.html，分布式应用程序协调服务，集群的管理者
+    #配置zookeeper: https://blog.csdn.net/leiyu231/article/details/52292373
+
+    四、ActiveMQ：https://www.e-learn.cn/content/java/487993，消息中间件，消息队列
+    #配置activemq： https://blog.csdn.net/whereismatrix/article/details/47303613 启动默认端口8161
+
+    五、Dubbo：https://www.cnblogs.com/chafe/p/5945209.html，分布式服务框架
+    #配置dubbo： https://blog.csdn.net/weixin_41113108/article/details/79573465   https://blog.csdn.net/hua1586981/article/details/79195111
+
+    六、Spring cloud：http://wemedia.ifeng.com/67620052/wemedia.shtml
+
+
+
+
+
+
+
+
+
+
